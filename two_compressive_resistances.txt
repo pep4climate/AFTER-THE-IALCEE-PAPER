@@ -1,0 +1,1 @@
+compressive_resistances_dictionary = {'fk': 4.691352777703492, 'fm': 6.2279668592488475}
