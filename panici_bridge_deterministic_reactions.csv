@@ -1,0 +1,5 @@
+﻿load,reaction_x,reaction_z
+parapet,9.5,12.3
+arch_self_weight,13.2,17.1
+spandrel_wall,7.1,13.9
+backfill,30.5,59.8
